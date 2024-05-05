@@ -372,7 +372,10 @@ margin-right: 120px;
     align-items: baseline;
 }
 
-
+.social-media-svg {
+    display: flex;
+    gap: 16px;
+}
 
 
 
