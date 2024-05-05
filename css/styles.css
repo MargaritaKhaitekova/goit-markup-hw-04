@@ -119,6 +119,7 @@ width: 100%;
     color: #404BBF;
 }
 
+
 .main-section {
     background: #2E2F42;
     padding: 188px 0;
@@ -176,6 +177,18 @@ padding: 120px 0;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+.icons-svg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+}
+
 
 .list-strategy {
 display: flex;
