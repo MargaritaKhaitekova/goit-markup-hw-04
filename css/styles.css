@@ -375,7 +375,10 @@ margin-right: 120px;
 .social-media-svg {
     display: flex;
     gap: 16px;
+}
 
+.social-media-paragraph {
+    margin-bottom: 16px;
 }
 
 .icons-list {
@@ -392,3 +395,13 @@ margin-right: 120px;
     align-items: center;
     justify-content: center;
 }
+
+.icons-list-link:hover,
+.icons-list-link:focus {
+   background-color: #31d0aa;
+}
+
+.icons-footer {
+    fill: #f4f4fd;
+}
+
