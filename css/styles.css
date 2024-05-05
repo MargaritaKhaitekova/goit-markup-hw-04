@@ -375,7 +375,20 @@ margin-right: 120px;
 .social-media-svg {
     display: flex;
     gap: 16px;
+
 }
 
+.icons-list {
+    width: 40px;
+    height: 40px;
+}
 
-
+.icons-list-link {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
