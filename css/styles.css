@@ -354,8 +354,18 @@ width: calc((100% - 48px) / 3);
    max-width: 264px;
 }
 
+.div-footer {
+margin-right: 120px;
+}
 
-
+.social-media-paragraph {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
 
 
 
