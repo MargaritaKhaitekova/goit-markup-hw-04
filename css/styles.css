@@ -284,11 +284,17 @@ letter-spacing: 0.02em;
    display: flex;
    align-items: center;
    justify-content: center;
+   background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/*.hero-svg {
+.hero-svg {
+   fill: #f4f4fd;
+}
 
-}*/
+.hero-svg-link:hover,
+.hero-svg-link:focus {
+    background-color: #404bbf;
+}
 
 .hero-card {
     background-color: #FFFFFF;
