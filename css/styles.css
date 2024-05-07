@@ -340,14 +340,15 @@ letter-spacing: 0.02em;
 .images-portfolio-item {
 width: calc((100% - 48px) / 3);
 transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-transform: translateY(0%);
 }
-
-
 
 .div-images-portfolio {
 position: relative;
 overflow: hidden;
+}
+
+.images-portfolio-item:hover {
+transform: translateY(0%);
 }
 
 .paragraph-images-portfolio {
