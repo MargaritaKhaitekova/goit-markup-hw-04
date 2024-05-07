@@ -347,9 +347,6 @@ position: relative;
 overflow: hidden;
 }
 
-.images-portfolio-item:hover {
-transform: translateY(0%);
-}
 
 .paragraph-images-portfolio {
     position: absolute;
